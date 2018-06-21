@@ -80,7 +80,7 @@ namespace AsposeTests
         }
 
         [Test]
-        public void DownloadFile_GivenFileToDownloadAndPathToStoreTheFile_ShouldDownloadFileAndBothFilesShouldHaveEqualBytesLength()
+        public void DownloadFile_GivenFileToDownloadAndPathToStoreTheFile_ShouldDownloadFileAndBothFilesShouldHaveEqualBytes()
         {
             //Arrange
             var sut = new FileDownloader();
@@ -93,11 +93,8 @@ namespace AsposeTests
             var actual = sut.DownloadFile(fileToDownload, path);
 
             //Assert
-            var fileToDownloadBytesLength = actual.Length;
             var downloadedFileBytes = File.ReadAllBytes(path);
-            var downloadedFileBytesLength = downloadedFileBytes.Length;
-
-            Assert.AreEqual(fileToDownloadBytesLength, downloadedFileBytesLength);
+            Assert.AreEqual(downloadedFileBytes, actual);
         }
 
         [TestCase("")]
