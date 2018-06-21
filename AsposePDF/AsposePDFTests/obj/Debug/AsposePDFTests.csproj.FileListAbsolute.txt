@@ -1,0 +1,6 @@
+C:\Users\sinothilem\aspose pdf\AsposePDF\AsposePDFTests\bin\Debug\AsposePDFTests.dll
+C:\Users\sinothilem\aspose pdf\AsposePDF\AsposePDFTests\bin\Debug\AsposePDFTests.pdb
+C:\Users\sinothilem\aspose pdf\AsposePDF\AsposePDFTests\obj\Debug\AsposePDFTests.csprojAssemblyReference.cache
+C:\Users\sinothilem\aspose pdf\AsposePDF\AsposePDFTests\obj\Debug\AsposePDFTests.csproj.CoreCompileInputs.cache
+C:\Users\sinothilem\aspose pdf\AsposePDF\AsposePDFTests\obj\Debug\AsposePDFTests.dll
+C:\Users\sinothilem\aspose pdf\AsposePDF\AsposePDFTests\obj\Debug\AsposePDFTests.pdb

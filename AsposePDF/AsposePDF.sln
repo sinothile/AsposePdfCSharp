@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsposePDF", "AsposePDF\AsposePDF.csproj", "{6EDA499B-16CD-4D13-BC37-B68FEF030BF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsposeTests", "AsposeTests\AsposeTests.csproj", "{6B2248D4-51AF-4D68-A502-CA109B50A272}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EDA499B-16CD-4D13-BC37-B68FEF030BF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EDA499B-16CD-4D13-BC37-B68FEF030BF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EDA499B-16CD-4D13-BC37-B68FEF030BF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EDA499B-16CD-4D13-BC37-B68FEF030BF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B2248D4-51AF-4D68-A502-CA109B50A272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B2248D4-51AF-4D68-A502-CA109B50A272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B2248D4-51AF-4D68-A502-CA109B50A272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B2248D4-51AF-4D68-A502-CA109B50A272}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {321346EA-66B1-4D31-A169-D181DFD2B14A}
+	EndGlobalSection
+EndGlobal
